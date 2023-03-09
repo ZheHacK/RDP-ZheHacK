@@ -1,4 +1,4 @@
-<!--By ZheHacK-->
+# By ZheHacK
 
 $i = 4000
 do {
